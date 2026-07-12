@@ -26,6 +26,50 @@
 - Self-hosted and open-source.
 - More features coming soon!
 
+<br/>
+
+## Sponsors
+
+Sponsorship at any level is appreciated and encouraged. If you built a paid product using mly.fyi, consider one of the [sponsorship tiers](https://github.com/sponsors/arikchakma).
+
+<br/>
+
+<h3 align="center">Gold</h3>
+
+<table align="center" style="justify-content: center;align-items: center;display: flex;">
+  <tr>
+    <td align="center">
+      <p></p>
+      <p></p>
+      <a href="https://novu.co?ref=mly.fyi">
+        <picture height="60px">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/5e2b9ef1-5ded-4863-995d-62c7e40f946a">
+          <img alt="Novu Logo" height="60px" src="https://github.com/user-attachments/assets/d2fdaf14-2211-4946-ab67-a4ce547aabc0">
+        </picture>
+      </a>
+      <p></p>
+      <p></p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h4 align="center">Backers</h4>
+
+<table align="center" style="justify-content: center;align-items: center;display: flex;">
+  <tr>
+    <td align="center">
+      <a href="https://sendmux.ai/?ref=maily.to">
+        <img alt="Sendmux" height="40px" width="40px" src="https://github.com/Sendmux.png" style="border-radius: 50%;">
+      </a>
+      <p><a href="https://sendmux.ai/?ref=maily.to">Sendmux</a></p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 ## Getting Started
 
 To get started, you need to have the guidelines from the [documentation](https://mly.fyi/docs/introduction) and follow the steps.
