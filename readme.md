@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> **This project is archived and no longer maintained.**
+> **This project is archived and no longer maintained.**\
 > Check out [Inboxjot](https://inboxjot.com): Email for builders and their agents.
 
 <h1 align="center"><img height="150" src="https://mly.fyi/favicon.svg" /><br>mly.fyi</h1>
